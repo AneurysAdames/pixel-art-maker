@@ -1,9 +1,10 @@
 body {
     text-align: center;
+    align-items: center;
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: 'Ruge Boogie', cursive;
     font-size: 70px;
     margin: 0.2em;
 }
@@ -14,6 +15,11 @@ h2 {
 
 h2:first-of-type {
     margin-top: 0.5em;
+}
+
+main {
+  border: 5px solid #900066;
+  padding-bottom: 20px;
 }
 
 table,
